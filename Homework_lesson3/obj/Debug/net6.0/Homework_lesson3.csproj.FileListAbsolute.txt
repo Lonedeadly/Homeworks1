@@ -1,0 +1,15 @@
+D:\GB\Homeworks1 (Знакомство с языками программирования)\Homework_lesson3\bin\Debug\net6.0\Homework_lesson3.exe
+D:\GB\Homeworks1 (Знакомство с языками программирования)\Homework_lesson3\bin\Debug\net6.0\Homework_lesson3.deps.json
+D:\GB\Homeworks1 (Знакомство с языками программирования)\Homework_lesson3\bin\Debug\net6.0\Homework_lesson3.runtimeconfig.json
+D:\GB\Homeworks1 (Знакомство с языками программирования)\Homework_lesson3\bin\Debug\net6.0\Homework_lesson3.dll
+D:\GB\Homeworks1 (Знакомство с языками программирования)\Homework_lesson3\bin\Debug\net6.0\Homework_lesson3.pdb
+D:\GB\Homeworks1 (Знакомство с языками программирования)\Homework_lesson3\obj\Debug\net6.0\Homework_lesson3.csproj.AssemblyReference.cache
+D:\GB\Homeworks1 (Знакомство с языками программирования)\Homework_lesson3\obj\Debug\net6.0\Homework_lesson3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Homeworks1 (Знакомство с языками программирования)\Homework_lesson3\obj\Debug\net6.0\Homework_lesson3.AssemblyInfoInputs.cache
+D:\GB\Homeworks1 (Знакомство с языками программирования)\Homework_lesson3\obj\Debug\net6.0\Homework_lesson3.AssemblyInfo.cs
+D:\GB\Homeworks1 (Знакомство с языками программирования)\Homework_lesson3\obj\Debug\net6.0\Homework_lesson3.csproj.CoreCompileInputs.cache
+D:\GB\Homeworks1 (Знакомство с языками программирования)\Homework_lesson3\obj\Debug\net6.0\Homework_lesson3.dll
+D:\GB\Homeworks1 (Знакомство с языками программирования)\Homework_lesson3\obj\Debug\net6.0\refint\Homework_lesson3.dll
+D:\GB\Homeworks1 (Знакомство с языками программирования)\Homework_lesson3\obj\Debug\net6.0\Homework_lesson3.pdb
+D:\GB\Homeworks1 (Знакомство с языками программирования)\Homework_lesson3\obj\Debug\net6.0\Homework_lesson3.genruntimeconfig.cache
+D:\GB\Homeworks1 (Знакомство с языками программирования)\Homework_lesson3\obj\Debug\net6.0\ref\Homework_lesson3.dll
